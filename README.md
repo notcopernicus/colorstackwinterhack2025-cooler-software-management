@@ -1,9 +1,9 @@
 # colorstackwinterhack2025-cooler-software-management
 
-## 🛡️ The Pitch: MedGuard AI
+## The Pitch: MedGuard AI
 **MedGuard AI** is an intelligent medication safety guardian designed to bridge health literacy gaps and language barriers for underserved communities. It is not just a pill reminder; it is a safety and translation tool that prevents dangerous medication errors before they happen.
 
-## 🧩 Problem Alignment
+## Problem Alignment
 **Principle 2: Incorporate Prosocial Design Principles**
 
 Medication errors cost the US healthcare system **$40 billion annually**. Non-English speakers and patients with low health literacy often cannot read or understand critical warnings on English-language pill bottles.
@@ -16,7 +16,7 @@ Medication errors cost the US healthcare system **$40 billion annually**. Non-En
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### **Frontend (The Interface)**
 * **React.js (Vite):** Fast, responsive user interface.
@@ -32,7 +32,7 @@ Medication errors cost the US healthcare system **$40 billion annually**. Non-En
 
 ---
 
-## 🚀 Setup & Installation Instructions
+## Setup & Installation Instructions
 
 Follow these steps to run MedGuard AI locally.
 
