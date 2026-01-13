@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 
 // 1. SETUP GOOGLE GEMINI
 // PASTE YOUR KEY HERE
-const genAI = new GoogleGenerativeAI("AIzaSyCYo3oVSSykb06IgaII6h7fa9vjmHJ_PSs");
+const genAI = new GoogleGenerativeAI("INSERT_KEY");
 const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
 app.post('/api/analyze', async (req, res) => {
