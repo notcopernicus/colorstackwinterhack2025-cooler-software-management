@@ -1,8 +1,5 @@
 # colorstackwinterhack2025-cooler-software-management
 
-![MedGuard AI Banner](https://via.placeholder.com/1000x300?text=MedGuard+AI:+Bridging+Health+Literacy+Gaps)
-*(Replace the link above with a screenshot of your app, or delete this line)*
-
 ## 🛡️ The Pitch: MedGuard AI
 **MedGuard AI** is an intelligent medication safety guardian designed to bridge health literacy gaps and language barriers for underserved communities. It is not just a pill reminder; it is a safety and translation tool that prevents dangerous medication errors before they happen.
 
