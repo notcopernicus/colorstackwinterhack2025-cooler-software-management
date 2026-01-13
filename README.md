@@ -1,6 +1,3 @@
-Here's the README.md ready to copy and paste:
-
-```markdown
 # colorstackwinterhack2025-cooler-software-management
 
 ![MedGuard AI Banner](https://via.placeholder.com/1000x300?text=MedGuard+AI:+Bridging+Health+Literacy+Gaps)
@@ -102,4 +99,3 @@ npm run dev
 ---
 
 Built with ❤️ for ColorStack Winter Hack 2025.
-```
